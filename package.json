@@ -1,0 +1,23 @@
+{
+  "name": "daiduong1",
+  "version": "1.0.0",
+  "description": "demooo",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "aaa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luhau389/daiduong1.git"
+  },
+  "author": "kduy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luhau389/daiduong1/issues"
+  },
+  "homepage": "https://github.com/luhau389/daiduong1#readme"
+}
